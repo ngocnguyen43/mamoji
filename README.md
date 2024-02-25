@@ -46,10 +46,10 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 
 - [ ] Increase more difficult levels
 
-### Fix
+### fix
 
 - [ ] Fix Ui
 
-## [License](https://github.com/ngocnguyen43/chat-app/blob/master/LICENSE)
+## [License](https://github.com/ngocnguyen43/mamoji/blob/master/LICENSE)
 
 MIT © [Minh Ngoc ](https://github.com/ngocnguyen43)
