@@ -1,0 +1,6 @@
+[submodule "mamoji-be"]
+	path = mamoji-be
+	url = git@github.com:ngocnguyen43/mamoji-be.git
+[submodule "mamoji-fe"]
+	path = mamoji-fe
+	url = git@github.com:ngocnguyen43/mamoji-fe.git
