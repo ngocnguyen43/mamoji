@@ -31,7 +31,7 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 ## Built with
 
 - [NodeJs - NestJs](https://nestjs.com/) - Node.js along with Nest.js powers services backend.
-- [Svelte](https://svelte.dev/) - User interface builder with rich components and cross-browser compatibility.
+- [Svelte](https://svelte.dev/) - User interface builder with reactive, rich components and cross-browser compatibility.
 - [Mysql](https://www.mysql.com/) - Relational database management system.
 - [Redis](https://redis.io/) - Fast caching and data storage.
 - [DigitalOcean Cloud](http://getbootstrap.com/) - Hosting our application on DigitalOcean Cloud.
@@ -45,6 +45,8 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 ### features
 
 - [ ] Increase more difficult levels
+- [ ] Streak wins
+- [ ] Increase more points based on streak wins
 
 ### fix
 
